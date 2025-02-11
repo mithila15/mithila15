@@ -12,8 +12,8 @@
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
-![NLP](https://img.shields.io/badge/NLP-%234285F4.svg?style=for-the-badge&logo=Google%20Cloud&logoColor=white)  
-![CNN](https://img.shields.io/badge/CNN-%23E4405F.svg?style=for-the-badge&logo=DeepLearning&logoColor=white)  
+![Natural Language ProcessingLP](https://img.shields.io/badge/NLP-%234285F4.svg?style=for-the-badge&logo=Google%20Cloud&logoColor=white)  
+![Convolutional Neural Network](https://img.shields.io/badge/CNN-%23E4405F.svg?style=for-the-badge&logo=DeepLearning&logoColor=white)  
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
 # 📊 GitHub Stats:
@@ -21,7 +21,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mithila15&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mithila15&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
